@@ -1,4 +1,4 @@
 d41d8cd98f00b204e9800998ecf8427e  DEBIAN/md5sums
-3f1063f2562f0c935db4c9498d31b446  DEBIAN/control
-ba940cd22edaad5ee3c9e76269a473a1  etc/apt/sources.list.d/brave-browser-release.list
+7feeb8edb71513324269473094280ced  DEBIAN/control
+687c91762b6a39a71bd766f203e9b48b  etc/apt/sources.list.d/brave-browser-release.list
 999e7863a2b205129ba807b225e5e9ef  etc/apt/trusted.gpg.d/brave-core.asc
